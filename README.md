@@ -1,2 +1,2 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
-Learing c++
+Learning c++
